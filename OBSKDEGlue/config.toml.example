@@ -1,0 +1,8 @@
+[Connection]
+Url = "ws://localhost:4444"
+Password = "yeah no"
+
+[ActivitySwitcher]
+TargetActivity = "your UID here"
+TargetScene = "A"
+HideScene = "B"
